@@ -70,7 +70,7 @@ section {
   padding: 60px;
 }
 
-/* hero section start */
+/* Hero Style Start */
 .hero {
   background-image: url("../images/hero-bg.jpeg");
   height: 600px;
@@ -78,6 +78,8 @@ section {
   background-position: center;
   position: relative;
 }
+/* Hero Style End */
+
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
@@ -118,9 +120,7 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-/* hero section end */
 
-/* what we do/what you do section start */
 .intro {
   text-align: center;
 }
@@ -178,9 +178,7 @@ section {
 .secondary-border {
   border-color: #39a6b2;
 }
-/* what we do/what you do section end */
 
-/* meet the trainers section start */
 .trainers {
   text-align: center;
 }
@@ -227,9 +225,7 @@ section {
 .text-right {
   text-align: right;
 }
-/* meet the trainers section end */
 
-/* reach out section start */
 .contact {
   text-align: center;
   background: #024e76;
@@ -268,4 +264,5 @@ section {
 .contact-info a {
   color: #fce138;
 }
-/* reach out section end */
+
+/* REACH OUT STYLES END */

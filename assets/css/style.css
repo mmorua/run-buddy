@@ -135,6 +135,7 @@ footer a {
 
 .steps {
   text-align: center;
+  background: #fce138;
 }
 
 .section-title {
@@ -155,7 +156,7 @@ footer a {
 }
 
 .steps div {
-  .margin-bottom: 80px
+  margin-bottom: 80px;
 }
 
 .steps img {
